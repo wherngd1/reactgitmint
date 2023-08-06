@@ -1,0 +1,176 @@
+/* Reset some default styles */
+*,html {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body ,html{
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+    line-height: 1.5;
+    margin: 0;
+    max-width: 100%;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+header {
+    width: auto;
+    /* background-color: #333;
+    color: #fff; */
+    padding: 20px;
+}
+
+header nav {
+    width: clamp(500px, 100%, 600px);
+    padding: 10px;
+    margin: auto;
+    border: 3px solid;
+    border-radius:10px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo h1 {
+    margin-left: 40px;
+    margin-right: 20px;
+    font-size: 24px;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+nav ul li {
+    margin-right:20px;
+}
+
+nav ul li a {
+    color: #333;
+    text-decoration: none;
+}
+
+nav ul li .connect-button{
+    padding: 15px 30px;
+    font-weight: bolder;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.connect-button:hover {
+    background-color: #555;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+nav ul {
+    flex: 1;
+    justify-content: center;
+}
+
+main {
+    margin: 20px;
+}
+
+.hero {
+    text-align: center;
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.hero h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    margin-bottom: 40px;
+}
+
+.quantity-control {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.quantity-control button{
+    min-width: 30px;
+    min-height: 30px;
+}
+
+.quantity-control input {
+    max-width: 100px;
+    min-height: 30px;
+    text-align: center;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.mint-button {
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.mint-button:hover {
+    background-color: #555;
+}
+
+.supply-info {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+.features {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.features .feature {
+    flex-basis: 30%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.features .feature img {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.features .feature h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.features .feature p {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+}
