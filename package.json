@@ -16,10 +16,13 @@
     "react-dom": "^18.2.0",
     "react-popup": "^0.11.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "homepage": "http://wherngd1.github.io/reactgitmint"
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -53,6 +56,7 @@
     "chai": "^4.2.0",
     "dotenv": "^16.0.3",
     "ethers": "^5.4.7",
+    "gh-pages": "^5.0.0",
     "hardhat": "^2.11.1",
     "hardhat-deploy": "^0.11.30",
     "hardhat-gas-reporter": "^1.0.8",
