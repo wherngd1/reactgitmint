@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c3b636f.css",
-    "main.js": "/static/js/main.767540d8.js",
-    "index.html": "/index.html",
-    "main.3c3b636f.css.map": "/static/css/main.3c3b636f.css.map",
-    "main.767540d8.js.map": "/static/js/main.767540d8.js.map"
+    "main.css": "/reactgitmint/static/css/main.3c3b636f.css",
+    "main.js": "/reactgitmint/static/js/main.767540d8.js",
+    "index.html": "/reactgitmint/index.html",
+    "main.3c3b636f.css.map": "/reactgitmint/static/css/main.3c3b636f.css.map",
+    "main.767540d8.js.map": "/reactgitmint/static/js/main.767540d8.js.map"
   },
   "entrypoints": [
     "static/css/main.3c3b636f.css",
