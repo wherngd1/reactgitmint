@@ -1,13 +1,26 @@
 {
   "files": {
-    "main.css": "/reactgitmint/static/css/main.3c3b636f.css",
-    "main.js": "/reactgitmint/static/js/main.767540d8.js",
-    "index.html": "/reactgitmint/index.html",
-    "main.3c3b636f.css.map": "/reactgitmint/static/css/main.3c3b636f.css.map",
-    "main.767540d8.js.map": "/reactgitmint/static/js/main.767540d8.js.map"
+    "main.css": "/Y0Kaiii/website.git/static/css/main.06cbb0ab.css",
+    "main.js": "/Y0Kaiii/website.git/static/js/main.57c5f691.js",
+    "static/js/679.2252a598.chunk.js": "/Y0Kaiii/website.git/static/js/679.2252a598.chunk.js",
+    "static/media/citiesintro.png": "/Y0Kaiii/website.git/static/media/citiesintro.66f0985e7152aaa27eb4.png",
+    "static/media/mintbackground.png": "/Y0Kaiii/website.git/static/media/mintbackground.24eb0839fc263ef3ab34.png",
+    "static/media/mistertel.png": "/Y0Kaiii/website.git/static/media/mistertel.f51dfea4da2202208bd7.png",
+    "static/media/city-icon-1.png": "/Y0Kaiii/website.git/static/media/city-icon-1.c79e9701407a3b3539af.png",
+    "static/media/city-icon-2.png": "/Y0Kaiii/website.git/static/media/city-icon-2.c79e9701407a3b3539af.png",
+    "static/media/city-icon-3.png": "/Y0Kaiii/website.git/static/media/city-icon-3.c79e9701407a3b3539af.png",
+    "static/media/carolselbg.png": "/Y0Kaiii/website.git/static/media/carolselbg.8c6a7732b8eb253d9dc6.png",
+    "static/media/Terrarium.jpg": "/Y0Kaiii/website.git/static/media/Terrarium.acfad0c741d599730fb8.jpg",
+    "static/media/FooterLogo.png": "/Y0Kaiii/website.git/static/media/FooterLogo.1c1a1ee44b872c928f47.png",
+    "static/media/JarLogo.png": "/Y0Kaiii/website.git/static/media/JarLogo.71ea2ca6b2d0e2a8f35e.png",
+    "static/media/EdenVerden.png": "/Y0Kaiii/website.git/static/media/EdenVerden.da43c98a3f32c0eada30.png",
+    "index.html": "/Y0Kaiii/website.git/index.html",
+    "main.06cbb0ab.css.map": "/Y0Kaiii/website.git/static/css/main.06cbb0ab.css.map",
+    "main.57c5f691.js.map": "/Y0Kaiii/website.git/static/js/main.57c5f691.js.map",
+    "679.2252a598.chunk.js.map": "/Y0Kaiii/website.git/static/js/679.2252a598.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c3b636f.css",
-    "static/js/main.767540d8.js"
+    "static/css/main.06cbb0ab.css",
+    "static/js/main.57c5f691.js"
   ]
 }
